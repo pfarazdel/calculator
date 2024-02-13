@@ -46,8 +46,10 @@
          * سپس به responseText انتقال یافته،
          * در نهایت در قسمت داخلی HTML قرار می‌گیرد.
          * 
+         *
          * @param {string} ReqType نوع مقدار درخواستی فانکشن
          */
+        vardump();
 
         function calc(ReqType) {
             var xhr = new XMLHttpRequest();
