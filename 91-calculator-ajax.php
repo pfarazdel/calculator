@@ -49,8 +49,6 @@
          * @param {string} ReqType نوع مقدار درخواستی فانکشن
          */
 
-        vardump($x);
-
         function calc(ReqType) {
             var xhr = new XMLHttpRequest();
 
